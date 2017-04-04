@@ -1,6 +1,5 @@
 # splitQ
-
-> Shared payment for travel
+Trips expenses management system
 
 ## Team
 
