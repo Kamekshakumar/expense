@@ -4,9 +4,9 @@
 
 ## Team
 
-  - JJ Gutierrez
-  - Dale Toney
   - Tim Nguyen
+  - Dale Toney
+  - JJ Gutierrez
   - Stephen Makowski 
 
 ## Table of Contents
